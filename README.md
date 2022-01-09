@@ -58,20 +58,15 @@
       width="40" height="40" /> </a> </p>
 
 <br>
+    
+<h3 align="center">Top langs :tongue:</h4>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadachmed&langs_count=10&theme=tokyonight&layout=compact"
-    alt="ahmadachmed" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
   <br>
 
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadachmed&show_icons=true&locale=en"
     alt="ahmadachmed" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadachmed&" alt="ahmadachmed" /></p>
 
 <br>
