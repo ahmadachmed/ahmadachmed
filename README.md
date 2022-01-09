@@ -34,9 +34,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadachmed&langs_count=10&theme=tokyonight&layout=compact" alt="ahmadachmed :: Top Langs" /></p>
   <br>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadachmed&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadachmed&show_icons=true&theme=tokyonight&locale=en"
     alt="ahmadachmed" /></p>
 
 <br>
