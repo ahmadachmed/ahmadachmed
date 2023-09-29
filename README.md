@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Ahmad Ilham</h1>
-<h3 align="center">A Quality Assurance Enginner</h3>
+<h2 align="center">Hi 👋</h1>
+<h3 align="center">I am A Quality Assurance Enginner</h3>
 
 <br>
 
