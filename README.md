@@ -6,7 +6,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="400" alt="ahmadachmed" /></p>
 
 
-- 🌱 I’m currently learning Aplication development with Flutter and other stuff about Automation Test
+- 🌱 I’m currently learning Aplication development and other stuff about Automation Test
 
 - 📫 How to reach me **ahmadilham000@gmail.com**
 
